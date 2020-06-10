@@ -11,6 +11,11 @@
 |
 */
 
+// HOME PAGE
 Route::get('/', function () {
     return view('about');
 });
+
+
+// BLOG
+Route::get('/blog', 'BlogController@index');

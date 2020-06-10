@@ -4,12 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>About</title>
+  <title>Blog</title>
 </head>
 <body>
-  <h1>Prova di about</h1>
-  <a href="/blog">
-    Visita il blog
-  </a>
+<h1>Benvenuto nel blog</h1>
+<a href="/">
+  torna indietro
+</a>
 </body>
 </html>
